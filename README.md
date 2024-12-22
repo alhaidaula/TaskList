@@ -1,2 +1,2 @@
 # TaskList
-Basic tasklist where projects and tasks can be added and removed. Experimented with basic JS and php user signup and validation functionality. 
+Basic tasklist where projects and tasks can create, read, update and delete. Experimented with basic JS and php user signup and validation functionality. 
